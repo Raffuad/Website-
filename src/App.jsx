@@ -133,9 +133,9 @@ function App() {
                 {/* Simplified GoFood Text Icon */}
                 <span style={{fontSize: '1.5rem', fontWeight: 900}}>go</span>food
               </a>
-              <div className="partner-badge" style={{color: '#00B14F'}}>
+              <a href="https://r.grab.com/g/6-20260428_161503_c4c3fd5d0c5c44d8bf247fc1bf87979d_MEXMPS-6-C75AT62GPETUVX" target="_blank" rel="noopener noreferrer" className="partner-badge" style={{color: '#00B14F', textDecoration: 'none'}}>
                 <span style={{fontSize: '1.5rem', fontWeight: 900}}>Grab</span>Food
-              </div>
+              </a>
               <a href="https://spf.shopee.co.id/8Km0RfkGXY" target="_blank" rel="noopener noreferrer" className="partner-badge" style={{color: '#EE4D2D', textDecoration: 'none'}}>
                 <span style={{fontSize: '1.5rem', fontWeight: 900}}>Shopee</span>Food
               </a>
