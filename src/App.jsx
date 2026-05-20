@@ -52,7 +52,8 @@ function App() {
   }, [heroImages.length]);
 
   const handleWhatsApp = () => {
-    window.open('https://wa.me/6281573897783', '_blank');
+    const message = encodeURIComponent('Halo saya mau pesan');
+    window.open(`https://wa.me/6281573897783?text=${message}`, '_blank');
   };
 
   return (
