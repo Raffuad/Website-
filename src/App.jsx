@@ -148,7 +148,7 @@ function App() {
       <footer>
         <div className="container">
           <div className="footer-logo">Dapur <span>Teh Imel</span></div>
-          <p>&copy; {new Date().getFullYear()} Dapur Teh Imel. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Dapur Teh Imel. Bojonggede, Kabupaten Bogor.</p>
         </div>
       </footer>
     </>
